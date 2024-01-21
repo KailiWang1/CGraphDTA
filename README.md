@@ -60,4 +60,4 @@ python train.py
 ```
 
 ### contact
-Kaili Wang: kailiwang@csu.edu.cn
+Kaili Wang: kailiwang@dhu.edu.cn
